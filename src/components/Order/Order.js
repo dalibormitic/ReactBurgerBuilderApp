@@ -12,7 +12,7 @@ const order = (props) => {
             {
                 textTransform: 'capitalize',
                 display: 'inline-block',
-                margin: '0 8px',
+                margin: '5px 8px',
                 border: '1px solid #ccc',
                 padding: '5px'
             }
